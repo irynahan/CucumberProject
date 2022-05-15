@@ -1,0 +1,8 @@
+Dependencies: 
+
+
+Settings: 
+file - settings - plugins - marketplace install:
+- cucumber for java
+- gherkin
+
